@@ -15,7 +15,8 @@ b is the semi-minor axis length.
 ## Installation and running the code:
 
 - Make sure you have python installed.
-- Clone this repository using `git clone ` or just download the zip and extract it.
+- Clone this repository using `git clone git@github.com:patil-ku/detect_ellipse.git` OR
+- Just download the zip and extract it. You should find the download button 
 - In a directory where you will run this code, install a virtual environment using the command:
   
   ```
